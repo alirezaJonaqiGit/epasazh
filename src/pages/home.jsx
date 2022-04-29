@@ -1,4 +1,4 @@
-import SimpleBottomNavigation from "../components/bottomNavigation";
+import SimpleBottomNavigation from "../components/homeComponents/bottomNavigation";
 import Header from "../components/homeComponents/header";
 import HeaderSlider from "../components/homeComponents/headerSlider";
 import ProductsList from "../components/homeComponents/productsList";
